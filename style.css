@@ -1,0 +1,33 @@
+body {
+    padding: 60px;
+    margin: auto;
+    background-color: rgb(26, 61, 26);
+    
+}
+img {
+    float: right;
+}
+div {
+    background-color: orangered;
+    padding: 60px;
+}
+#socials {
+    background-color: darkgoldenrod;
+    width: 900px;
+}
+h2 {
+    font-weight: bolder;
+}
+.hobbies {
+    font-style: italic;
+}
+span {
+    color: blue;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+h3 {
+    color: black;
+}
